@@ -1,2 +1,2 @@
 # loamMatlab
-LOAM MATLAB code
+LOAM MATLAB code (odometry part)
